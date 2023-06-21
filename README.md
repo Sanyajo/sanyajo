@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://avatars.githubusercontent.com/u/83663932?v=4" width="28px" alt="👋"></h1>
 
-<p align="center">
+<p align="center" >
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Aliaxander.<br>
@@ -16,28 +16,35 @@
     </a>
 </p>
 
-<p align="left">
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Sanyajo)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Sanyajo)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sanyajo)
+<div class="container">
+  <div class="column-left">
+    <p1 align="left">
+      ### Languages
+      [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Sanyajo)
+      [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo)
+      [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Sanyajo)
+      [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sanyajo)
 
-### Technologies & Frameworks
-[![Tkinter](https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo)
+      ### Technologies & Frameworks
+      [![Tkinter](https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo)
 
-### OS
-[![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs)](https://github.com/Sanyajo)
-</p>
+      ### OS
+      [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs)](https://github.com/Sanyajo)
+    </p1>
 
-<p align="right">
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyajo&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyajo&theme=transparent" />
-  </a>
-</p>
+  </div>
+  <div class="column-right">
+    <p2 align="right">
+      <a href="https://github.com/Sanyajo">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
+      </a>
+      <a href="https://github.com/Sanyajo">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyajo&hide_border=true&card_width=338&theme=transparent" />
+      </a>
+      <a href="https://github.com/Sanyajo">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyajo&theme=transparent" />
+      </a>
+    </p2>
+
+  </div>
+</div>
