@@ -28,7 +28,7 @@
 ### OS
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs)](https://github.com/Sanyajo)
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/Sanyajo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
   </a>
@@ -37,8 +37,5 @@
   </a>
   <a href="https://github.com/Sanyajo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyajo&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyajo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
