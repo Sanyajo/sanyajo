@@ -18,18 +18,17 @@
 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 20px;">
-    <p align="left">
-    #### Languages
-     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
-     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
-     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="C++">
-     <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL">
-    #### Technologies & Frameworks
-     <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter" alt="Tkinter">
-    #### OS
-     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs" alt="MacOS">
-     </p>
-
+    <p style="display: flex; flex-direction: column; align-items: flex-start;">
+        <h4>Languages</h4>
+        <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
+        <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
+        <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="C++">
+        <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL">
+        <h4>Technologies & Frameworks</h4>
+        <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter" alt="Tkinter">
+        <h4>OS</h4>
+        <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs" alt="MacOS">
+    </p>
   </div>
   <div style="flex: 1; margin-left: 20px;">
     <p align="right">
