@@ -17,8 +17,8 @@
 </p>
 
 <div>
-    <p align = "left">
-        ### Languages
+    <p align="left">
+### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Sanyajo)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Sanyajo)
@@ -30,8 +30,10 @@
 ### OS
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs)](https://github.com/Sanyajo)
     </p>
+</div>
+<div>
 
-    <p align = "right">
+    <p align="right">
   <a href="https://github.com/Sanyajo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
   </a>
