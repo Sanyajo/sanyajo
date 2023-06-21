@@ -16,22 +16,6 @@
     </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyajo&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyajo&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyajo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-
-
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Sanyajo)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo)
