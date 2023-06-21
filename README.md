@@ -24,6 +24,15 @@
         <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
         <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="C++">
         <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL">
+         <a href="https://github.com/Sanyajo">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
+      </a>
+      <a href="https://github.com/Sanyajo">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyajo&hide_border=true&card_width=338&theme=transparent" />
+      </a>
+      <a href="https://github.com/Sanyajo">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyajo&theme=transparent" />
+      </a>
         <h4>Technologies & Frameworks</h4>
         <img src="https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter" alt="Tkinter">
         <h4>OS</h4>
