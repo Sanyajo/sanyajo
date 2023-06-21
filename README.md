@@ -28,7 +28,7 @@
 ### OS
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOs)](https://github.com/Sanyajo)
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/Sanyajo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
   </a>
