@@ -19,7 +19,6 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)](https://github.com/Sanyajo)
 [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo)
-[![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus)](https://github.com/Sanyajo)
 [![SQL](https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=mysql)](https://github.com/Sanyajo)
 
 ### Technologies & Frameworks
