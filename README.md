@@ -25,7 +25,7 @@
 [![Tkinter](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo)
 
 ### OS
-[![MacOS](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=MacOS)](https://github.com/Sanyajo)
+[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/Sanyajo)
 
 <p align="center">
   <a href="https://github.com/Sanyajo">
