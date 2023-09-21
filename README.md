@@ -22,7 +22,7 @@
 [![SQL](https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=mysql)](https://github.com/Sanyajo)
 
 ### Technologies & Frameworks
-[![Tkinter](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo)
+[![Tkinter](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo/automated-workplace)
 [![Android](https://img.shields.io/badge/android-orange?style=for-the-badge&logo=android)](https://github.com/Sanyajo/AndroidStudioLabs)
 
 ### OS
