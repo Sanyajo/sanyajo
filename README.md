@@ -17,13 +17,13 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)](https://github.com/Sanyajo)
 [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo)
 [![SQL](https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=mysql)](https://github.com/Sanyajo)
 
 ### Technologies & Frameworks
 [![Tkinter](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo/automated-workplace)
 [![Android](https://img.shields.io/badge/android-orange?style=for-the-badge&logo=android)](https://github.com/Sanyajo/AndroidStudioLabs)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-yellow?style=for-the-badge&logo=Spring_Boot)](https://github.com/Sanyajo/automated-workplace)
 
 ### OS
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/Sanyajo)
