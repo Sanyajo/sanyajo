@@ -17,7 +17,7 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)]([https://github.com/Sanyajo](https://github.com/Sanyajo/JavaTutor))
+[![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)](https://github.com/Sanyajo/JavaTutor)
 [![SQL](https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=mysql)](https://github.com/Sanyajo)
 
 ### Technologies & Frameworks
