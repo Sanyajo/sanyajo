@@ -23,7 +23,7 @@
 ### Technologies & Frameworks
 [![Tkinter](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge&logo=tkinter)](https://github.com/Sanyajo/automated-workplace)
 [![Android](https://img.shields.io/badge/android-orange?style=for-the-badge&logo=android)](https://github.com/Sanyajo/AndroidStudioLabs)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-yellow?style=for-the-badge&logo=Spring_Boot)](https://github.com/Sanyajo/automated-workplace)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring_Boot)](https://github.com/Sanyajo/car-sales-website-with-interactive-configurator)
 
 ### OS
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/Sanyajo)
