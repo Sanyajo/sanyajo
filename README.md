@@ -23,7 +23,7 @@
 ### Technologies & Frameworks
 [![Tkinter](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge&logo=tkinter)]
 [![Android](https://img.shields.io/badge/android-orange?style=for-the-badge&logo=android)]
-[Spring](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring)
+[[Spring](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring)]
 
 ### OS
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/Sanyajo)
