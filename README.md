@@ -26,17 +26,4 @@
 [![Android](https://img.shields.io/badge/android-orange?style=for-the-badge&logo=android)](https://github.com/Sanyajo)
 [![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring)](https://github.com/Sanyajo)
 
-### OS
-[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/Sanyajo)
-
-<p align="center">
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyajo&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyajo&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sanyajo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyajo&theme=transparent" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyajo&show_icons=true&locale=en&layout=compact" alt="sanyajo" /></p>
